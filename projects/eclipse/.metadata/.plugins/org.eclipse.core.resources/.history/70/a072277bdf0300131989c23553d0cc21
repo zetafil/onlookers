@@ -1,0 +1,8 @@
+
+import pprint
+
+python_wiki_rss_url = ""
+
+feed = feedparser.parse( python_wiki_rss_url )
+
+

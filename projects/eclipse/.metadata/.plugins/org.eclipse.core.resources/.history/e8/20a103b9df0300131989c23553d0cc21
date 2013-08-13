@@ -1,0 +1,11 @@
+
+import pprint
+import feedparser
+
+url = 'www.baidu.com'
+feedparser.parse(url)
+pprint.pprint('fff')
+
+
+
+

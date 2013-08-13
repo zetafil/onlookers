@@ -1,0 +1,11 @@
+
+import pprint
+import feedparser
+
+url = nil
+result = feedparser.parse(url)
+pprint.pprint(result)
+
+
+
+

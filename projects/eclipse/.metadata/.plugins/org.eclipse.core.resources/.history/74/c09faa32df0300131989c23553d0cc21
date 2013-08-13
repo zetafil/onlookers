@@ -1,0 +1,15 @@
+'''
+Created on 2013Äê8ÔÂ13ÈÕ
+
+@author: yanlong
+'''
+import feedparser
+
+python_wiki_rss_url = "http://www.python.org/cgi-bin/moinmoin/" \
+                     "RecentChanges?action=rss_rc"
+feed = feedparser.parse( python_wiki_rss_url )
+
+
+if __name__ == "__main__":
+    #import sys;sys.argv = ['', 'Test.testName']
+    unittest.main()

@@ -1,0 +1,11 @@
+
+import pprint
+import feedparser
+
+url = Null
+result = feedparser.parse(url)
+pprint.pprint(result)
+
+
+
+

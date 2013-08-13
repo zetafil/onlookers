@@ -1,0 +1,11 @@
+'''
+Created on 2013Äê8ÔÂ13ÈÕ
+
+@author: yanlong
+'''
+import feedparser
+
+python_wiki_rss_url = ""
+feed = feedparser.parse( python_wiki_rss_url )
+
+

@@ -1,0 +1,12 @@
+'''
+Created on 2013Äê8ÔÂ13ÈÕ
+
+@author: yanlong
+'''
+import feedparser
+
+
+
+if __name__ == "__main__":
+    #import sys;sys.argv = ['', 'Test.testName']
+    unittest.main()
